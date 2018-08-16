@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SmartLighting</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">Welcome</string>
+    <string name="device_list">Device List</string>
+    <string name="device_name">"Device Name : "</string>
+    <string name="mac_address">"MAC Address : "</string>
+    <string name="status">"Disconnected"</string>
+    <string name="pi_a">Pi A</string>
+    <string name="connection_history">Connection History</string>
+    <string name="state">"Connection State : "</string>
+    <string name="pi_b">Pi B</string>
+    <string name="connected_at">"Connected at : "</string>
+    <string name="disconnected_at">"Disconnected at : "</string>
+    <string name="up_time">"Up Time : "</string>
+    <string name="no_connection_found">No Connection Found</string>
+</resources>

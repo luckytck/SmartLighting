@@ -1,0 +1,306 @@
+{
+  "project_info": {
+    "project_number": "92422872074",
+    "firebase_url": "https://iot-assignment-93af3.firebaseio.com",
+    "project_id": "iot-assignment-93af3",
+    "storage_bucket": "iot-assignment-93af3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92422872074:android:42f551c66ffa48cb",
+        "android_client_info": {
+          "package_name": "my.edu.tarc.smartlighting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92422872074-95bhgasbomcemjdjolgdalabqb17m6gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBltK4jMGYZxzRTyE3bDwJKfa_rGbq_LLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92422872074:android:761be48f4789332a",
+        "android_client_info": {
+          "package_name": "my.edu.taruc.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92422872074-4sa28ombq4fnhpvk7fnibkvhf4638kks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.edu.taruc.iot",
+            "certificate_hash": "b9ec4be25718320c780b2eda19c8842ceb8a99c0"
+          }
+        },
+        {
+          "client_id": "92422872074-95bhgasbomcemjdjolgdalabqb17m6gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBltK4jMGYZxzRTyE3bDwJKfa_rGbq_LLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92422872074-95bhgasbomcemjdjolgdalabqb17m6gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92422872074:android:7ca4b4154708b56b",
+        "android_client_info": {
+          "package_name": "my.edu.taruc.iotassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92422872074-eng3kuuf6m7pugj7p8ecftekk5hfksgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.edu.taruc.iotassignment",
+            "certificate_hash": "b9ec4be25718320c780b2eda19c8842ceb8a99c0"
+          }
+        },
+        {
+          "client_id": "92422872074-95bhgasbomcemjdjolgdalabqb17m6gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBltK4jMGYZxzRTyE3bDwJKfa_rGbq_LLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92422872074-95bhgasbomcemjdjolgdalabqb17m6gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92422872074:android:5f8d5c8c3f6410b1",
+        "android_client_info": {
+          "package_name": "my.edu.taruc.iotproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92422872074-rodqrtnpuourjto8bl2rgsp92ed8l6s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.edu.taruc.iotproject",
+            "certificate_hash": "b9ec4be25718320c780b2eda19c8842ceb8a99c0"
+          }
+        },
+        {
+          "client_id": "92422872074-95bhgasbomcemjdjolgdalabqb17m6gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBltK4jMGYZxzRTyE3bDwJKfa_rGbq_LLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92422872074-95bhgasbomcemjdjolgdalabqb17m6gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92422872074:android:a8499b0122b24777",
+        "android_client_info": {
+          "package_name": "my.edu.taruc.smartlighting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92422872074-5i02itet87md3n5cqnodi53lh67igoh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.edu.taruc.smartlighting",
+            "certificate_hash": "b9ec4be25718320c780b2eda19c8842ceb8a99c0"
+          }
+        },
+        {
+          "client_id": "92422872074-95bhgasbomcemjdjolgdalabqb17m6gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBltK4jMGYZxzRTyE3bDwJKfa_rGbq_LLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92422872074-95bhgasbomcemjdjolgdalabqb17m6gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92422872074:android:d4e074ac10e1e252",
+        "android_client_info": {
+          "package_name": "my.edu.taruc.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92422872074-romhjdqrdto8akfuv5qihqjajejpl1o0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.edu.taruc.test",
+            "certificate_hash": "b9ec4be25718320c780b2eda19c8842ceb8a99c0"
+          }
+        },
+        {
+          "client_id": "92422872074-95bhgasbomcemjdjolgdalabqb17m6gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBltK4jMGYZxzRTyE3bDwJKfa_rGbq_LLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92422872074-95bhgasbomcemjdjolgdalabqb17m6gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92422872074:android:92e57b944d5bfd09",
+        "android_client_info": {
+          "package_name": "my.edu.taruc.testfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92422872074-leg99hl5qcl5qq38e4bjoq8oujdfkr4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.edu.taruc.testfirebase",
+            "certificate_hash": "b9ec4be25718320c780b2eda19c8842ceb8a99c0"
+          }
+        },
+        {
+          "client_id": "92422872074-95bhgasbomcemjdjolgdalabqb17m6gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBltK4jMGYZxzRTyE3bDwJKfa_rGbq_LLY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92422872074-95bhgasbomcemjdjolgdalabqb17m6gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
